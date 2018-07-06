@@ -1,0 +1,14 @@
+.main-container{
+    background-color: aqua;
+}
+
+header {
+    background-color: chartreuse;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: black
+}
