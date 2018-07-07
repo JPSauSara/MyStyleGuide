@@ -1,5 +1,8 @@
 body {
     background: url("../images/ep_naturalblack.png");
+    font-family: dejarip, sans-serif;
+    font-style: normal;
+    font-weight: 400;
 }
 
 header {
@@ -7,6 +10,11 @@ header {
     top: 0;
     width:100%;
     /* background-color: chartreuse; */
+    /* font-family: pt-sans-caption, sans-serif; */
+    /* font-family: voluta-script-pro, sans-serif; */
+    /* font-family: apolline, serif;
+    font-style: normal;
+    font-weight: 600; */
 }
 
 footer {
