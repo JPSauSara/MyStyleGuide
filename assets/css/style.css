@@ -37,8 +37,8 @@ footer {
     /* background-color: #ffffff; */
     margin: 20px auto; 
     background: linear-gradient(90deg, #ECECEC 25%, #FFFFFF 25%);
-
 }
+
 .section-title {
     font-size: 24px;
     padding: 10px 15px 0px 15px;
@@ -51,15 +51,21 @@ footer {
     float: left;
     width: 25%;
     padding-left: 15px;
+    height: 100%;
 }
 
+.side-content {
+    margin-left: 20px;
+    padding-left: 25px;
+}
 .squares p {
     display: inline-block;
     width: 150px;
     height: 150px;
     background: black;
     padding: 10px;
-    margin: 10px;
+    margin: 5px 0px;
+    /* float: right; */
 
     /* a small margin to separate the blocks */
     margin-right: 5px;
