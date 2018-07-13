@@ -88,14 +88,36 @@ footer {
     background-color: #F7F7F7;
 }
 #background-three {
-    background-color: #F7F7F7;
+    background-color: #ECECEC;
 }
 #background-four {
-    background-color: #F7F7F7;
+    background-color: #D9D9D8;
 }
 #background-five {
-    background-color: #F7F7F7;
+    background-color: #B2B1AF;
 }
 #background-six {
-    background-color: #F7F7F7;
+    background-color: #7D7C7A;
+}
+#background-six {
+    background-color: #2B2B2A;
+}
+
+#other-one {
+    background-color: #59CFD7;
+}
+#other-two {
+    background-color: #0D6A7A;
+}
+#other-three {
+    background-color: #94DCA5;
+}
+#other-four {
+    background-color: #EE6F75;
+}
+#other-five {
+    background-color: #FBC558;
+}
+#other-six {
+    background-color: #6A6A6A;
 }
