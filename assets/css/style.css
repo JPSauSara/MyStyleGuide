@@ -71,3 +71,31 @@ footer {
     /* a small margin to separate the blocks */
     margin-right: 5px;
 }
+
+#primary-one{
+    /* color: #59CFD7; */
+    background-color: #59CFD7;
+}
+#primary-two{
+    /* color: #59CFD7; */
+    background-color: #ec7046;
+}
+#background-one {
+    background-color: #FFFFFF;
+    border: #6a6a6a;
+}
+#background-two {
+    background-color: #F7F7F7;
+}
+#background-three {
+    background-color: #F7F7F7;
+}
+#background-four {
+    background-color: #F7F7F7;
+}
+#background-five {
+    background-color: #F7F7F7;
+}
+#background-six {
+    background-color: #F7F7F7;
+}
