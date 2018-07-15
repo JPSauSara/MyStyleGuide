@@ -55,21 +55,30 @@ footer {
 }
 
 .side-content {
-    margin-left: 20px;
+    width: 75%;
+    margin-left: 25%;
     padding-left: 25px;
 }
 .square {
     /* display: inline-block; */
     display: inline-grid;
-    width: 125px;
-    height: 125px;
-    background: black;
+    width: 100px;
+    height: 100px;
+    /* background: black; */
     padding: 10px;
     margin: 5px 0px;
+    border: solid thin #6a6a6a;
     /* float: right; */
 
     /* a small margin to separate the blocks */
-    margin-right: 5px;
+    /* margin-right: 5px; */
+}
+.square p {
+    font-size: 12px;
+
+}
+.invisible {
+    visibility: hidden;
 }
 
 #primary-one{
@@ -82,7 +91,7 @@ footer {
 }
 #background-one {
     background-color: #FFFFFF;
-    border: #6a6a6a;
+    border: solid #6a6a6a;
 }
 #background-two {
     background-color: #F7F7F7;
